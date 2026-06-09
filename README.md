@@ -196,7 +196,7 @@ A marketplace platform focused on handmade artwork and creative products, enabli
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://omkolhe.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-kolhe-a9a33b227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kolheom1311/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kolheom1311@gmail.com)
 
 </div>
