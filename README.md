@@ -105,7 +105,7 @@ A healthcare management platform integrating AI, analytics, secure authenticatio
 
 **Tech:** Django, Gemini AI, Twilio, Razorpay, MetaMask, Ganache, Power BI
 
-🔗 Repository: https://github.com/kolheom1311/HealXCare
+🔗 Repository: [github.com/kolheom1311/HealXCare](https://github.com/kolheom1311/HealXCare)
 
 ---
 
@@ -123,7 +123,7 @@ A farm-to-consumer traceability platform that enhances supply-chain transparency
 
 **Tech:** Next.js, TypeScript, Firebase, Firestore, Tailwind CSS
 
-🔗 Repository: https://github.com/kolheom1311/OrangeTrace
+🔗 Repository: [github.com/kolheom1311/OrangeTrace](https://github.com/kolheom1311/OrangeTrace)
 
 ---
 
@@ -141,7 +141,7 @@ An AI-powered air-writing and gesture-recognition system that converts hand move
 
 **Tech:** Python, OpenCV, Gemini AI, Google Cloud Vision
 
-🔗 Repository: https://github.com/kolheom1311/Sky-Scribe
+🔗 Repository: [github.com/kolheom1311/Sky-Scribe](https://github.com/kolheom1311/Sky-Scribe)
 
 ---
 
@@ -158,7 +158,7 @@ A marketplace platform focused on handmade artwork and creative products, enabli
 
 **Tech:** Next.js, TypeScript, Firebase, Tailwind CSS
 
-🔗 Repository: https://github.com/kolheom1311/Articea-Web
+🔗 Repository: [github.com/kolheom1311/Articea-Web](https://github.com/kolheom1311/Articea-Web)
 
 ---
 
